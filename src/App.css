@@ -1,0 +1,46 @@
+/* App.jsx */
+.custom-container{
+  background-color: #F0ECFE;
+  min-height: 100vh;
+}
+.custom-btn__form{
+  border: none;
+  border-radius: 4px;
+  width: 100%;
+  height: 40px;
+  background-color: #5C636A;
+  color: white;
+  font-weight: bold;
+}
+.custom-btn:hover{
+  opacity: 0.6;
+}
+
+.custom-active {
+  background-color: #3E6CDF;
+  color: white;
+}
+
+
+
+/* Register Form */
+
+/* Hover icon */
+.custom-btn__icon{
+  width: 40px;
+  height: 40px;
+  border: none;
+  border-radius: 50%;
+  background-color: white;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+.custom-btn__icon:hover{
+  background-color: #404247;
+  color: white;
+}
+
+.custom-form{
+  margin: auto;
+  width: 540px;
+  background-color: white;
+}
